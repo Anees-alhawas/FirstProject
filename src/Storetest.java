@@ -9,7 +9,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class Storetest {
+public class Storetest {//git hub
 
 	WebDriver driver = new ChromeDriver();
 

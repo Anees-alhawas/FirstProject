@@ -6,7 +6,7 @@
       <class name="Storetest">
         <methods>
           <include name="setup"/>
-          <include name="signup"/>
+          <include name="selectitems"/>
         </methods>
       </class> <!-- Storetest -->
     </classes>
